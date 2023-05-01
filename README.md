@@ -3,7 +3,8 @@ Player Controller for UnityVR
 
 # Screenshot
 [Image is an example of a project using this asset](https://github.com/TLabAltoh/VR_Kensyu)  
-![TLabGrabbable Capture Trim](https://user-images.githubusercontent.com/121733943/235363804-01b50f49-674e-40d4-a11e-39ed3ced5600.gif)
+![TLabVRPlayerController Capture](https://user-images.githubusercontent.com/121733943/235423191-ae4cd64a-e296-4b51-9f84-dafd5769e11e.gif)
+
 
 # Getting Started
 ## Prerequisites
