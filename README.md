@@ -12,11 +12,11 @@ Player Controller for UnityVR
 ## Installing
 Clone the repository to any directory under Assets in the Unity project that will use the assets with the following command  
 ```
-git clone https://github.com/TLabAltoh/TLabVRGrabber.git
+git clone https://github.com/TLabAltoh/TLabVRPlayerController.git
 ```
 If you are adding to an existing git project, use the following command instead
 ```
-git submodule add https://github.com/TLabAltoh/TLabVRGrabber.git
+git submodule add https://github.com/TLabAltoh/TLabVRPlayerController.git
 ```
 ## Link
 - [Sample project using this asset](https://github.com/TLabAltoh/VR_Kensyu)
