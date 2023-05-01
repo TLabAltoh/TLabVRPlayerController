@@ -21,5 +21,8 @@ If you are adding to an existing git project, use the following command instead
 ```
 git submodule add https://github.com/TLabAltoh/TLabVRPlayerController.git
 ```
+## Set up
+![TLabVRPlayerController Capture](https://user-images.githubusercontent.com/121733943/235424252-16e2ae81-70f1-49cd-a62a-f5a4966e50ee.png)  
+Attach Charactor Controller and TLabVRPlayerController to OVRCameraRig in Oculus Integration
 ## Link
 - [Sample project using this asset](https://github.com/TLabAltoh/VR_Kensyu)
