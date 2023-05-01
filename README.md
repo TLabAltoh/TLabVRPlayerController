@@ -1,5 +1,7 @@
 # TLabVRPlayerController
-Player Controller for UnityVR
+Player Controller for UnityVR  
+- Use Character Controller (less rattling when bumping into walls)  
+- Simple and intuitive operation
 
 # Screenshot
 [Image is an example of a project using this asset](https://github.com/TLabAltoh/VR_Kensyu)  
