@@ -5,8 +5,7 @@ Player Controller for UnityVR
 
 ## Screenshot
 [Image is an example of a project using this asset](https://github.com/TLabAltoh/VR_Kensyu)  
-![TLabVRPlayerController Capture](https://user-images.githubusercontent.com/121733943/235423191-ae4cd64a-e296-4b51-9f84-dafd5769e11e.gif)
-
+<img src="Media/tlab-vrplayer-controller.gif" width="256">  
 
 ## Getting Started
 ### Prerequisites
@@ -22,7 +21,7 @@ If you are adding to an existing git project, use the following command instead
 git submodule add https://github.com/TLabAltoh/TLabVRPlayerController.git
 ```
 ### Set up
-![TLabVRPlayerController Capture](https://user-images.githubusercontent.com/121733943/235424252-16e2ae81-70f1-49cd-a62a-f5a4966e50ee.png)  
+![TLabVRPlayerController Capture](Media/set-up.png)  
 Attach Charactor Controller and TLabVRPlayerController to OVRCameraRig in Oculus Integration
 ## Link
 - [Sample project using this asset](https://github.com/TLabAltoh/VR_Kensyu)
