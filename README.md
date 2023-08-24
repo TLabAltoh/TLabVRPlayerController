@@ -12,14 +12,7 @@ Player Controller for UnityVR
 - Unity 2021.3.23f1  
 - Oculus Integration (Install from asset store)  
 ### Installing
-Clone the repository to any directory under Assets in the Unity project that will use the assets with the following command  
-```
-git clone https://github.com/TLabAltoh/TLabVRPlayerController.git
-```
-If you are adding to an existing git project, use the following command instead
-```
-git submodule add https://github.com/TLabAltoh/TLabVRPlayerController.git
-```
+Clone the repository or download it from the release, place it under any Unity project and use it
 ### Set up
 ![TLabVRPlayerController Capture](Media/set-up.png)  
 Attach Charactor Controller and TLabVRPlayerController to OVRCameraRig in Oculus Integration
