@@ -4,7 +4,7 @@ Player Controller for UnityVR
 - Simple and intuitive operation
 
 ## Screenshot
-[Image is an example of a project using this asset](https://github.com/TLabAltoh/VR_Kensyu)  
+[Image is an example of a project using this asset](https://github.com/TLabAltoh/VR_Classroom)  
 <img src="Media/tlab-vrplayer-controller.gif" width="256">  
 
 ## Getting Started
