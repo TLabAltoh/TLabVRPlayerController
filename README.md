@@ -17,4 +17,4 @@ Clone the repository or download it from the release, place it under any Unity p
 ![TLabVRPlayerController Capture](Media/set-up.png)  
 Attach Charactor Controller and TLabVRPlayerController to OVRCameraRig in Oculus Integration
 ## Link
-- [Sample project using this asset](https://github.com/TLabAltoh/VR_Kensyu)
+- [Sample project using this asset](https://github.com/TLabAltoh/VR_Classroom)
