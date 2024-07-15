@@ -1,5 +1,5 @@
 # TLabVRPlayerController
-Player Controller for UnityVR  
+Player Controller for Unity VR  
 - Use Character Controller (less rattling when bumping into walls)  
 - Simple and intuitive operation
 

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TLab.XR
+namespace TLab.VR
 {
     public class BasePlayerController : MonoBehaviour
     {

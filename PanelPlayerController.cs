@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TLab.XR
+namespace TLab.VR
 {
     public class PanelPlayerController : BasePlayerController
     {
@@ -34,8 +34,8 @@ namespace TLab.XR
                 right = -Vector3.Cross(forward, Vector3.up).normalized;
             }
 
-            Vector3 targetMove = forward * m_yAxis + right * m_xAxis;
-            Vector3 targetJump = new Vector3(ZERO, m_currentJumpVelocity, ZERO);
+            var targetMove = forward * m_yAxis + right * m_xAxis;
+            var targetJump = new Vector3(ZERO, m_currentJumpVelocity, ZERO);
 
             m_controller.Move((targetMove * m_moveSpeed + targetJump) * Time.deltaTime);
         }
